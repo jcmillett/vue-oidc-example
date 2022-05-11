@@ -1,4 +1,7 @@
 # oidc-example
+A simple Vue 2.x CLI app that utilizes the oidc-client-ts npm package to handle auth using the authorization code with PKCE grant type.
+
+## Config (env vars)
 Set the OIDC authority and client ID in the `.env` file
 
 

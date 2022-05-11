@@ -1,4 +1,6 @@
 # oidc-example
+Set the OIDC authority and client ID in the `.env` file
+
 
 ## Project setup
 ```
